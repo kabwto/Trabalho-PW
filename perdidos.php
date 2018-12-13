@@ -34,18 +34,18 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html" style="color:darkblue">Home
+              <a class="nav-link" href="index.php" style="color:darkblue">Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="achados.html" style="color:darkblue">Achados</a>
+              <a class="nav-link" href="achados.php" style="color:darkblue">Achados</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="perdidos.html" style="color:darkblue">Perdidos</a>
+              <a class="nav-link" href="perdidos.php" style="color:darkblue">Perdidos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="login.html" style="color:darkblue">Logar/Cadastrar</a>
+              <a class="nav-link" href="login.php" style="color:darkblue">Logar/Cadastrar</a>
             </li>
           </ul>
         </div>

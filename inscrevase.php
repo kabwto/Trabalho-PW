@@ -46,7 +46,7 @@ $erro_email = isset($_GET['erro_email']) ? $_GET['erro_email'] : 0;
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html" style="color:darkblue">Home
+              <a class="nav-link" href="index.php" style="color:darkblue">Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>
